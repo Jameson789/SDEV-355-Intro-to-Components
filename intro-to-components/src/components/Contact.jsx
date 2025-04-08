@@ -1,3 +1,4 @@
+//component with my contacts
 function Contact() {
     return (
       <div>

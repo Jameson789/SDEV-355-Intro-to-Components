@@ -1,3 +1,4 @@
+//component with info about me 
 function AboutMe() {
     return (
       <div>

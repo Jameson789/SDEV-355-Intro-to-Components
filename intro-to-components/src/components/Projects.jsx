@@ -1,3 +1,4 @@
+//component with list of projects
 function Projects() {
     return (
       <div>
